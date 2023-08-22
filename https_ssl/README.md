@@ -1,0 +1,1 @@
+Table of contents Files Description 0-world_wide_web Bash script that will display information about subdomains 1-haproxy_ssl_termination HAproxy configuration file 2-redirect_http_to_https HAproxy configuration file to automatically redirect HTTP traffic to HTTPS
